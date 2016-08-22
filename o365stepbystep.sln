@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o365stepbystep", "o365stepb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o365rwsclient", "..\..\..\..\Source\Repos\o365rwsclient\o365rwsclient.csproj", "{C9EB0794-553E-4D25-9AE0-330D0333EFB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDataSources", "..\..\Point of Sales\PoS\AzureDataSources\AzureDataSources.csproj", "{12FB34CB-2012-44A4-9F2B-1CF28D7D1CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FB34CB-2012-44A4-9F2B-1CF28D7D1CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FB34CB-2012-44A4-9F2B-1CF28D7D1CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FB34CB-2012-44A4-9F2B-1CF28D7D1CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FB34CB-2012-44A4-9F2B-1CF28D7D1CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
