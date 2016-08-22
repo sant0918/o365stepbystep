@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o365stepbystep", "o365stepbystep\o365stepbystep.csproj", "{C686C66B-90CF-4E36-8928-4715F88E3F89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o365rwsclient", "..\..\..\..\Source\Repos\o365rwsclient\o365rwsclient.csproj", "{C9EB0794-553E-4D25-9AE0-330D0333EFB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C686C66B-90CF-4E36-8928-4715F88E3F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C686C66B-90CF-4E36-8928-4715F88E3F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C686C66B-90CF-4E36-8928-4715F88E3F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EB0794-553E-4D25-9AE0-330D0333EFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
