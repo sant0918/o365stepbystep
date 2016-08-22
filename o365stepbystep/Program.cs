@@ -37,7 +37,7 @@ namespace o365stepbystep
         internal static ReportingWebServiceApi reporting = 
             new ReportingWebServiceApi(
                 "javier@javier.nyc", 
-                "K1l04l1f3!",
+                "password123",
                 "MailboxUsageDetail");
         private const string pattern = @"\r\n";        
         private const string _header = "CreationTime,RecordType,UserType,PolicyName,FileName,FileOwner"
